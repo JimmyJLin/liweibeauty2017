@@ -1,0 +1,14 @@
+// variables import
+@import "global";
+@import "variables";
+
+// import from various pages
+@import "views/pages/index.scss";
+@import "views/pages/services.scss";
+@import "views/pages/contact.scss";
+@import "views/pages/404.scss";
+
+@import "views/partials/navbar.scss";
+@import "views/partials/footer.scss";
+@import "views/partials/parallax.scss";
+@import "views/partials/modal.scss";
