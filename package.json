@@ -1,7 +1,7 @@
 {
-  "name": "node_express_basic_starter",
+  "name": "Li Wei Beauty",
   "version": "1.0.0",
-  "description": "Node Express SASS Gulp Starter",
+  "description": "Li Wei Beauty International Group",
   "main": "server.js",
   "scripts": {
     "start": "gulp serve",
