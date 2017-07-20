@@ -5,53 +5,49 @@
 // styling for footer
 #footer{
   padding: 25px 40px;
+  background-color: $black_background_color;
+  color: $white_font_color;
+
   h4{
-    text-align: center;
+    text-align: left;
     font-weight: bold;
     font-size: 1.5em;
+    padding-bottom: 15px;
   }
-  #info{
-    #info_links{
-      text-decoration: none;
-      font-size: .8em;
+  #address{
+    img{
+      width: 25px;
+      height: auto;
+      margin: 10px;
+    }
+
+    #address_content{
+      display: inline-block;
+      display: -webkit-inline-box;
+
+      a{
+        color: $white_font_color;
+        text-decoration: none;
+      }
+      a:hover{
+        text-decoration: none;
+      }
+      p{
+        margin: 0px !important;
+        margin-top: 10px !important;
+      }
+
+      #email{
+        color: $maroon_red_font_color;
+      }
     }
   }
 
-  #social_medias{
-    padding-left: 0px;
-    padding-right: 0px;
-    font-size: .8em;
-    a{
-      text-decoration: none;
-      transition-duration: 1s;
+  #hours{
+    p{
+      width: 200px;
     }
 
-    #social_title{
-      text-align: center;
-    }
-    #facebook{
-      width: 39%;
-      height: auto;
-    }
-    #instagram{
-      width: 9%;
-      height: auto;
-    }
-    #pinterest{
-      width: 9%;
-      height: auto;
-    }
-    #blog{
-      width: 39%;
-      height: auto;
-    }
-
-    #facebook, #instagram, #pinterest, #blog{
-      cursor: pointer;
-    }
-    a:hover{
-      opacity: .7;
-    }
   }
 
   #subscribe{
