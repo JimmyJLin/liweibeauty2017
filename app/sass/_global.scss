@@ -6,11 +6,14 @@ body {
   color: $main_font_color;
 
   .btn{
+    transition-duration: 1s;
     background-color: $main_button_color;
     color: $white_font_color;
+    border-color: $transparent_background_color;
   }
   .btn:hover{
     background-color: $black_grey_background_color;
     color: $white_font_color;
+    border-color: $transparent_background_color;
   }
 }

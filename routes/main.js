@@ -12,6 +12,10 @@ main.get('/services', (req, res) => {
   res.render('pages/services');
 });
 
+main.get('/specials', (req, res) => {
+  res.render('pages/specials');
+});
+
 main.get('/contact', (req, res) => {
   res.render('pages/contact');
 });
