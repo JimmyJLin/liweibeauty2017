@@ -9,6 +9,10 @@
   .container-fluid{
     background-color: $light_main_background_color;
 
+    a:hover, li:hover{
+      cursor: pointer;
+    }
+
     #top-bar{
       display: flex;
       padding-right: 0px;
