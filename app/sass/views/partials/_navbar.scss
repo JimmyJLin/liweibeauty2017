@@ -44,6 +44,11 @@
     //   color: $white_font_color;
     // }
   }
+
+  .navbar-brand-mobile{
+    display: none;
+  }
+
   .navbar {
     margin-bottom: -20px;
   }
@@ -84,11 +89,16 @@
   #navbar{
     .navbar-nav{
       .active{
-        border-top-color: $white_font_color;
+        border-top-color: $maroon_red_font_color;
         border-top-width: 2px;
         border-top-style: solid;
         border-top-left-radius: .1em;
         border-top-right-radius: .1em;
+
+        // border-bottom-color: $maroon_red_font_color;
+        // border-bottom-width: 2px;
+        // border-bottom-left-radius: .1em;
+        // border-bottom-right-radius: .1em;
       }
     }
 
@@ -118,9 +128,8 @@
       }
     }
 
+
   }
-
-
 
 
 
@@ -131,7 +140,23 @@
 /* Mobile & Tablet @media imports - starts */
 // iPhone 4 & 4s starts here
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2){
-
+  #nav_bar{
+    .navbar-brand{
+      display: none;
+    }
+    .navbar-brand-mobile{
+      margin-left: 25px;
+      img{
+        width: 20%;
+      }
+    }
+    .navbar-nav{
+      margin: 0px !important;
+    }
+    .navbar-left{
+      margin-left: 0% !important;
+    }
+  }
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait){
 
@@ -143,7 +168,23 @@
 
 // iPhone 5 & 5S starts here
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) {
-
+  #nav_bar{
+    .navbar-brand{
+      display: none;
+    }
+    .navbar-brand-mobile{
+      margin-left: 25px;
+      img{
+        width: 20%;
+      }
+    }
+    .navbar-nav{
+      margin: 0px !important;
+    }
+    .navbar-left{
+      margin-left: 0% !important;
+    }
+  }
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
 
@@ -155,7 +196,23 @@
 
 // iPhone 6 & 6S starts here
 @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
-
+  #nav_bar{
+    .navbar-brand{
+      display: none;
+    }
+    .navbar-brand-mobile{
+      margin-left: 25px;
+      img{
+        width: 20%;
+      }
+    }
+    .navbar-nav{
+      margin: 0px !important;
+    }
+    .navbar-left{
+      margin-left: 0% !important;
+    }
+  }
 }
 @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
 
@@ -174,6 +231,21 @@
         width: 100%;
       }
     }
+    .navbar-brand{
+      display: none;
+    }
+    .navbar-brand-mobile{
+      margin-left: 25px;
+      img{
+        width: 20%;
+      }
+    }
+    .navbar-nav{
+      margin: 0px !important;
+    }
+    .navbar-left{
+      margin-left: 0% !important;
+    }
   }
 
 }
@@ -187,7 +259,11 @@
 
 // iPad mini starts here
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1) {
-
+  #nav_bar{
+    .navbar-brand-mobile{
+      display: none;
+    }
+  }
 }
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1) and (orientation: portrait) {
 
@@ -199,7 +275,11 @@
 
 // iPad starts here
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) {
-
+  #nav_bar{
+    .navbar-brand-mobile{
+      display: none;
+    }
+  }
 }
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
 
@@ -211,7 +291,11 @@
 
 // iPad Pro starts here
 @media only screen and (min-device-width: 1024px) and (max-device-width: 1366px){
-
+  #nav_bar{
+    .navbar-brand-mobile{
+      display: none;
+    }
+  }
 }
 @media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (orientation: portrait) {
 
@@ -223,7 +307,17 @@
 
 // Nexus 6P starts here
 @media only screen and (min-device-width: 412px) and (max-device-width: 732px) and (-webkit-min-device-pixel-ratio: 3) {
-
+  #nav_bar{
+    .navbar-brand{
+      display: none;
+    }
+    .navbar-nav{
+      margin: 0px !important;
+    }
+    .navbar-left{
+      margin-left: 0% !important;
+    }
+  }
 }
 @media only screen and (min-device-width: 412px) and (max-device-width: 732px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) {
 

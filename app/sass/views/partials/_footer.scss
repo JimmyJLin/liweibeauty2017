@@ -44,13 +44,23 @@
   }
 
   #hours{
+
+    border-left-color: $white_font_color;
+    border-left-width: thin;
+    border-left-style: solid;
+
     p{
       width: 200px;
     }
 
   }
 
-  #subscribe{
+  #membership{
+    height: 218px;
+    border-left-color: $white_font_color;
+    border-left-width: thin;
+    border-left-style: solid;
+
     font-size: .8em;
     .btn{
       transition-duration: 1s;
@@ -60,7 +70,7 @@
     }
   }
 
-  #info, #social_medias, #subscribe{
+  #address, #hours, #membership{
     padding-bottom: 20px;
   }
 
@@ -74,10 +84,8 @@
     h4{
       text-align: center;
     }
-    #info{
-      .center{
-        text-align: center;
-      }
+    #hours, #membership{
+      border-left: none;
     }
   }
 }
@@ -95,10 +103,8 @@
     h4{
       text-align: center;
     }
-    #info{
-      .center{
-        text-align: center;
-      }
+    #hours, #membership{
+      border-left: none;
     }
   }
 }
@@ -116,10 +122,8 @@
     h4{
       text-align: center;
     }
-    #info{
-      .center{
-        text-align: center;
-      }
+    #hours, #membership{
+      border-left: none;
     }
   }
 }
@@ -137,10 +141,9 @@
     h4{
       text-align: center;
     }
-    #info{
-      .center{
-        text-align: center;
-      }
+
+    #hours, #membership{
+      border-left: none;
     }
   }
 }
@@ -170,11 +173,7 @@
     h4{
       text-align: center;
     }
-    #info{
-      .center{
-        text-align: center;
-      }
-    }
+
   }
 }
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
@@ -191,11 +190,7 @@
     h4{
       text-align: center;
     }
-    #info{
-      .center{
-        text-align: center;
-      }
-    }
+
   }
 }
 @media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (orientation: portrait) {
@@ -208,7 +203,15 @@
 
 // Nexus 6P starts here
 @media only screen and (min-device-width: 412px) and (max-device-width: 732px) and (-webkit-min-device-pixel-ratio: 3){
+  #footer{
+    h4{
+      text-align: center;
+    }
 
+    #hours, #membership{
+      border-left: none;
+    }
+  }
 }
 @media only screen and (min-device-width: 412px) and (max-device-width: 732px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) {
 
