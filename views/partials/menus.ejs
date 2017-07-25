@@ -1,3 +1,50 @@
+<%
+  const collin = [
+  {
+    id: '1',
+    title: 'Reborn Facial',
+    price: '$79',
+    length: '60 mins',
+    summary: 'Cleanse, tone, exfoliate. Includes extraction.'
+  },
+  {
+    id: '2',
+    title: 'Algomask Facial',
+    price: '$120',
+    length: '60 mins',
+    summary: 'A perfect facial for dehydrated, sensitive and/or rosacea-prone skin.  The Algo Mask soothes, hydrates and gives instant radiance to the skin.'
+  },
+  {
+    id: '3',
+    title: 'Sea C Spa Facial',
+    price: '$120',
+    length: '60 mins',
+    summary: 'Intensive Vitamin C anti-aging treatment. Great for preventing and repairing sun damaged skin. Destroys free radicals and replicates elastin for firmer and younger looking skin.'
+  },
+  {
+    id: '4',
+    title: 'Hydro Lifting Facial',
+    price: '$120',
+    length: '60 mins',
+    summary: 'Formulated to deeply rehydrate, restore, lift and firm the skin for instant radiance and enhanced skin tone.'
+  },
+  {
+    id: '5',
+    title: 'Oxygen Facial',
+    price: '$120',
+    length: '60 mins',
+    summary: 'Formulated to clear skin congestion, control acne and revitalize fatigued, stressed and dulled skin.'
+  },
+  {
+    id: '6',
+    title: 'Collagen Facial',
+    price: '$130',
+    length: '60 mins',
+    summary: 'An intensive hydration formula proven to regenerate and reduce the appearance of fine lines. Corrective facial for everyone with mature skin type.'
+  }
+  ]
+%>
+
 <div id="menus" class="container-fluid">
 
   <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
@@ -82,7 +129,17 @@
           </div>
           <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
             <div class="panel-body">
-              Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+              <div class="container-fluid">
+
+                  <% collin.forEach((el) => { %>
+                    <div class="items">
+                      <h4><%= el.title %> <span> - <%= el.price %> (<%= el.length%>)</span></h4>
+                      <p><%= el.summary %></p>
+                    </div>
+                  <% }) %>
+
+              </div>
+
             </div>
           </div>
         </div>

@@ -16,6 +16,19 @@
       content: "\e080";    /* adjust as needed, taken from bootstrap.css */
   }
 
+  .panel-body{
+    h4{
+      font-weight: bold;
+      margin-bottom: 0px !important;
+      span{
+        font-weight: normal;
+      }
+    }
+    p{
+      margin-bottom: 15px;
+    }
+  }
+
   #membership, #left-panel{
     padding-bottom: 5px;
   }
