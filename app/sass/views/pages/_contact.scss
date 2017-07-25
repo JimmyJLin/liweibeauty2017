@@ -4,7 +4,28 @@
 // contact landing page
 #contact{
   height: 750px;
-
+  .header{
+    height: 120px;
+    width: 100%;
+    background-color: $light_main_background_color;
+    color: $white_font_color;
+  }
+  h1{
+    font-size: 3em;
+    font-weight: bold;
+    margin-top: 20px;
+    padding-top: 20px;
+    margin-bottom: 0px;
+  }
+  h3{
+    font-size: 1.2em;
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-bottom: 20px;
+  }
+  h1, h3 {
+    text-align: center;
+  }
 
 }
 
