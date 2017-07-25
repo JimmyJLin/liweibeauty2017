@@ -52,7 +52,6 @@
 
   .navbar {
     margin-bottom: -20px;
-    box-shadow: 0px 2px 8px;
   }
 
   .navbar-toggle {
@@ -75,6 +74,8 @@
     background-color: $main_background_color;
     border: none;
     border-radius: 0;
+    box-shadow: 0px 2px 8px;
+    
   }
 
   .affix + .container-fluid{
@@ -86,6 +87,7 @@
     background-color: $main_background_color;
     border: none;
     border-radius: 0;
+
   }
 
   #navbar{
