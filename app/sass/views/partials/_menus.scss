@@ -52,7 +52,20 @@
 
 // iPhone 5 & 5S starts here
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) {
-
+  #menus{
+    .panel-body{
+      .container-fluid{
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+      h4{
+        font-size: .9em;
+      }
+      p{
+        font-size: .9em;
+      }
+    }
+  }
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
 
@@ -64,7 +77,20 @@
 
 // iPhone 6 & 6S starts here
 @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) {
-
+  #menus{
+    .panel-body{
+      .container-fluid{
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+      h4{
+        font-size: .9em;
+      }
+      p{
+        font-size: .9em;
+      }
+    }
+  }
 }
 @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
 
@@ -76,7 +102,20 @@
 
 // iPhone 6plus starts here
 @media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) {
-
+  #menus{
+    .panel-body{
+      .container-fluid{
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+      h4{
+        font-size: 1em;
+      }
+      p{
+        font-size: 1em;
+      }
+    }
+  }
 }
 @media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) {
 
