@@ -3,7 +3,8 @@
 
 // contact landing page
 #contact{
-  height: 750px;
+  padding-bottom: 50px;
+
   .header{
     height: 120px;
     width: 100%;
@@ -25,6 +26,57 @@
   }
   h1, h3 {
     text-align: center;
+  }
+
+  .container-fluid{
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    #form{
+      padding-top: 25px;
+    }
+
+    #textarea{
+      width: 100%;
+    }
+
+    #promo_img{
+      width: 100%;
+      height: auto;
+    }
+
+    #address{
+      img{
+        width: 25px;
+        height: auto;
+        margin: 10px;
+      }
+
+      #address_content{
+        display: inline-block;
+        display: -webkit-inline-box;
+        padding-left: 25px;
+
+        p{
+          margin: 0px !important;
+          margin-top: 10px !important;
+        }
+
+        #email{
+          color: $maroon_red_font_color;
+        }
+      }
+    }
+
+    #hours{
+      border-left-color: $white_font_color;
+      border-left-width: thin;
+      border-left-style: solid;
+      p{
+        width: 200px;
+      }
+    }
+
   }
 
 }
