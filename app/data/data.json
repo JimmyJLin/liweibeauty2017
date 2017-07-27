@@ -182,5 +182,64 @@
     "length": "60 mins",
     "summary": "Noninvasive ultrasonic-cavitation treatments are designed to contour the body and reduce fat.  The energy works to liquefy fat cells for natural disposal by the body."
   }
+  ],
+  "packages": [
+  {
+    "id": "1",
+    "title": "LiWei Package",
+    "price": "$399",
+    "length": "5x Spa Treatments",
+    "summary": "For a limited time choose 5 unique treatments (treatments cannot repeat) from the spa treatments section for only $399."
+  },
+  {
+    "id": "2",
+    "title": "Aqua Peel",
+    "price": "$750",
+    "length": "6x",
+    "summary": "Cleanse, tone, exfoliate. Includes extraction."
+  },
+  {
+    "id": "3",
+    "title": "Black / White Doll Facial",
+    "price": "$750",
+    "length": "6x",
+    "summary": "It is one of the most advanced treatments for minor skin imperfections and promotes a smooth and glowing complexion.  e Carbon Laser Peel Treatment helps reduce  ne lines and wrinkles including ‘crow’s feet’.  The process is non invasive and pain free."
+  },
+  {
+    "id": "4",
+    "title": "LED Light Therapy",
+    "price": "$750",
+    "length": "6x",
+    "summary": "LED works by penetrating into the dermis layer of the skin, energizing the cells that are responsible for reproducing collagen & melanin, helping to reverse the signs of aging, giving you a smoother & more even skin tone."
+  },
+  {
+    "id": "5",
+    "title": "Hydro Dermabrasion",
+    "price": "$580",
+    "length": "10x",
+    "summary": "It is the latest renovation in skincare technology. Utilising water jets, the outer layer of the skin will be broken up.  This will reveal a smoother, more even texture of the skin."
+  },
+  {
+    "id": "6",
+    "title": "Dermapen Micro-needling Treatment",
+    "price": "$580",
+    "length": "10x",
+    "summary": "Is a minimally invasive technique that boosts your skin's production of collage and elastin, two of the most important substances in maintaining plump, youthful, glowing skin."
+  },
+  {
+    "id": "7",
+    "title": "RF Body Contouring",
+    "price": "$580",
+    "length": "10x",
+    "summary": "Non-invasive body-contouring treatments powered by radiofrequency (RF), to reducing skin laxity (looseness) to improve the appearance of excess or sagging skin."
+  }
+  ,
+  {
+    "id": "8",
+    "title": "Ultrasonic Cavitation Treatment",
+    "price": "$580",
+    "length": "10x",
+    "summary": "Noninvasive ultrasonic-cavitation treatments are designed to contour the body and reduce fat.  The energy works to liquefy fat cells for natural disposal by the body."
+  }
   ]
 }
