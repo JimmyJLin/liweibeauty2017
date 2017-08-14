@@ -31,14 +31,14 @@ main.get('/', (req, res) => {
   // console.log('alphaArry', alphaArry);
   // console.log('tempStr', tempStr);
 
-  console.log('signature', signature);
+  // console.log('signature', signature);
   // console.log('sha1Encrypt', sha1Encrypt);
 
-  if (url.signature === url.signature) {
-    console.log("true", signature)
+  if (url.signature) {
+    // console.log("true", signature)
     return true
   } else {
-    console.log("false")
+    // console.log("false")
     return false
 
   }
