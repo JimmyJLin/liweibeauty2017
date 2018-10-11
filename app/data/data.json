@@ -2,41 +2,34 @@
   "collin" : [
     {
       "id": "1",
-      "title": "Reborn Facial",
-      "price": "$79",
-      "length": "60 mins",
-      "summary": "Cleanse, tone, exfoliate. Includes extraction."
-    },
-    {
-      "id": "2",
       "title": "Algomask Facial",
       "price": "$120",
       "length": "60 mins",
       "summary": "A perfect facial for dehydrated, sensitive and/or rosacea-prone skin.  The Algo Mask soothes, hydrates and gives instant radiance to the skin."
     },
     {
-      "id": "3",
+      "id": "2",
       "title": "Sea C Spa Facial",
       "price": "$120",
       "length": "60 mins",
       "summary": "Intensive Vitamin C anti-aging treatment. Great for preventing and repairing sun damaged skin. Destroys free radicals and replicates elastin for firmer and younger looking skin."
     },
     {
-      "id": "4",
+      "id": "3",
       "title": "Hydro Lifting Facial",
       "price": "$120",
       "length": "60 mins",
       "summary": "Formulated to deeply rehydrate, restore, lift and firm the skin for instant radiance and enhanced skin tone."
     },
     {
-      "id": "5",
+      "id": "4",
       "title": "Oxygen Facial",
       "price": "$120",
       "length": "60 mins",
       "summary": "Formulated to clear skin congestion, control acne and revitalize fatigued, stressed and dulled skin."
     },
     {
-      "id": "6",
+      "id": "5",
       "title": "Collagen Facial",
       "price": "$130",
       "length": "60 mins",
@@ -46,110 +39,110 @@
   "facial": [
   {
     "id": "1",
-    "title": "LiWei's Harmony Facial",
-    "price": "$168",
-    "length": "60 mins",
+    "title": "Organic Essence Facial",
+    "price": "$68",
+    "length": "75 mins",
     "summary": "A unique revitalizing facial regime that eliminates daily stress. Tension and fatigue from the face treatment includes gentle cleansing, enzyme peel and detoxifying steam. Luxurious massage techniques intensify the customized creams and serums. Eyes are revived with a firming mask. Individual skin type is determined and treated with a custom-blended mask.  The complexion is left  refreshed. Radiant and glowing."
   },
   {
     "id": "2",
-    "title": "Orient Facial",
-    "price": "$138",
-    "length": "60 mins",
-    "summary": "The most common areas for treatment are the yang areas of the body such as the back, neck, shoulders, buttocks, limbs. Occasionally the chest and abdomen are used as well."
+    "title": "Deep Cleansing Facial",
+    "price": "$31",
+    "length": "75 mins",
+    "summary": "Our Deep Cleansing Facial is great for any one with imperfect skin.  A deep clean facial is great for oily or problematic skin.  If you suffer from acne breakouts often, this is a good solution for the problem."
   },
   {
     "id": "3",
-    "title": "Live Cell Facial",
-    "price": "$198",
-    "length": "60 mins",
-    "summary": "Strengthens skin cells, prolongs cellular lifespan and helps repairs UV-related skin damage. Reduces the appearance of wrinkles, fine lines and sagging skin."
+    "title": "Casmara Facial",
+    "price": "$150",
+    "length": "75 mins",
+    "summary": "The CASMARA laboratory has developed the ultimate cosmetic line to prevent the passage of time from being reflected in your skin. High-technology cosmetics which will renew your skin smoothing wrinkles and expression lines. Skin visibly younger."
   },
   {
     "id": "4",
-    "title": "Botanical Facial",
-    "price": "$98",
-    "length": "60 mins",
-    "summary": "An anti-aging treatment for stressed-out skin. Soy protein tightens and firms. Jojoba oil softens, orange blossom water soothes and refreshes, and hyaluronic acid improves elasticity and moisture levels in the skin."
+    "title": "Acne & Oily Skin Facial",
+    "price": "$78",
+    "length": "75 mins",
+    "summary": "Acne facials or deep cleansing facials are recommended for clients prone to oily or acneic skin or for those with uneven complexions. Both men and women can take advantage of the benefits of acne/deep-cleansing facials, which generally incorporate a combination of thorough steaming, deep cleansing, facial extractions to remove pore-clogging sebum, and a variation of a healing mask and moisturizer. "
   },
   {
     "id": "5",
-    "title": "Aromatherapy Massage",
-    "price": "$60/$115",
-    "length": "30/60 mins",
-    "summary": "Our Aromatherapy massage uses essential oils from plants which help lessen pain or irritation in the body. Soothe and heal your muscles with the expertise of our masseuses. "
+    "title": "Basic Facial w/ BioLift Eye treatment",
+    "price": "$75",
+    "length": "75 mins",
+    "summary": "Combine our basic treatment with proven Bio-Lift Eye Treatment. "
   },
   {
     "id": "6",
-    "title": "Basic Facial",
-    "price": "$70",
-    "length": "60 mins",
-    "summary": "As the foundation of every facial we offer, our Basic facial is the classic approach in sustaining a clear and renewed complexion for all skin types. This treatment comprises of cleansing, exfoliating, steaming and a gentle extracting process for the skin as well as a mild high frequency treatment that helps thoroughly cleanse and remove bacteria from the skin. To conclude the refreshing journey, enjoy a cold mask specific to your skin type - hydrating, brightening, anti-wrinkle or oily skin - with a relaxing signature massage. It's the ideal go-to service for any individual to revive and cleanse one's skin."
-  },
-  {
-    "id": "7",
-    "title": "Microdermabrasion Skin Peel Facial",
-    "price": "$135",
+    "title": "Microdermabrasion",
+    "price": "$51",
     "length": "75 mins",
     "summary": "With the most recently updated and advanced diamond technology, the Microdermabrasion resurfacing facial primarily treats sun damage, acne scars, enlarged pores, unbalanced skin tone, wrinkles and skin pigmentation. Reveal your natural beauty hiding underneath your epidermal layers and let your skin have that youthful and vibrant complexion with this latest technology."
   },
   {
     "id": "8",
-    "title": "Organic Facial",
-    "price": "$135",
+    "title": "BioLift Facial Treatment",
+    "price": "$51",
     "length": "75 mins",
-    "summary": "Our organic facial is made up of natural ingredients including a variety of edible nutrients that help maintain a healthy look for your skin. Certain ingredients include avocado which is rich in vitamins and helps reduce wrinkles, green tea and tea tree which both contain several antioxidants that helps treat acne, jojoba which hydrates and rejuvenates the skin. With organic seaweed mask, your skin will be kept looking healthy and radiant."
+    "summary": "Our most acclaimed facial includes preventative treatments, such as non-invasive electric microcurrents that deliver immediate results sans down time.  Lauded for its supreme lifting, sculpting, and firming."
   },
   {
     "id": "9",
-    "title": "Deep Cleansing Facial",
-    "price": "$85",
+    "title": "Biboting Facial Treatment",
+    "price": "$88",
     "length": "75 mins",
-    "summary": "Deep cleansing facials use a variety of treatments to clean your face more thoroughly than what other treatments provide. You can expect to have your face steamed to open up the pores; an extraction of clogged pores, whiteheads and blackheads; a deep pore cleansing treatment and healing masks to improve the skin’s surface and underlying layers."
+    "summary": "Biboting is a treatment that combines cupping, acupuncture, gua sha, moxibustion, and massage all in one. Biboting can make your skin breath in and out to keep your body at balance. Deep penetration through the subcutaneous tissue unblocks the meridians to regulate health."
+  },
+  {
+    "id": "10",
+    "title": "Casmara Treatment",
+    "price": "$250",
+    "length": "75 mins",
+    "summary": "Rejuvenate dry skin with Casmara personalized treatment in single-dose phases combined with the benefits ofvarious masks."
   }
   ],
   "makeup": [
   {
     "id": "1",
-    "title": "Embroidery",
-    "price": "$380",
-    "length": "120 mins",
-    "summary": "Basic Semi-Permanent Eyebrow Hairstrokes with one or two dimensional looks."
-  },
-  {
-    "id": "2",
-    "title": "3D Microblading",
-    "price": "$680",
+    "title": "Eyebrow Hairstrokes + Ombre",
+    "price": "$480",
     "length": "120 mins",
     "summary": "Combination of the shading and hair stroke technique, whereby strokes are made closer to one another creating a shaded dimensional appearance."
   },
   {
-    "id": "3",
-    "title": "Powdered Fills",
-    "price": "$480",
-    "length": "90 mins",
-    "summary": "Method involves the application of thousands of tiny little dots of pigment, inserted into the skin, gradually building up a colour and a de ned shape."
-  },
-  {
-    "id": "4",
+    "id": "2",
     "title": "Lip's Lines only",
     "price": "$380",
     "length": "90 mins",
     "summary": "This method uses different shades of color to blend the lip line to complement the natural color, the treatment which is to last 8-10 years, will give you a new fuller lips with no injections necessary."
   },
   {
-    "id": "5",
-    "title": "Full Lips Pigmentation",
-    "price": "$980",
+    "id": "3",
+    "title": "Full Lips",
+    "price": "$680",
     "length": "120 mins",
     "summary": "This method not only give you fuller lips through lip line tattoo, but also  lled in the lips with di erent shades of color to give you the appearances of a fuller full lips."
   },
   {
-    "id": "6",
-    "title": "Eyeliner Permanent Makeup",
-    "price": "$590",
+    "id": "4",
+    "title": "Eyeliner",
+    "price": "$380",
     "length": "90 mins",
-    "summary": "Permanent eyeliner or eyelash enahnces the appearance of the eyes.  The price is for either upper or lower eyeliners."
+    "summary": "Single line Eyeliner Microblading."
+  },
+  {
+    "id": "5",
+    "title": "Eyeliner Ombre",
+    "price": "$480",
+    "length": "90 mins",
+    "summary": "Enhanced eyeliner Microblading with Ombre effect."
+  },
+  {
+    "id": "6",
+    "title": "Color Removal",
+    "price": "$380",
+    "length": "120 mins",
+    "summary": "Color Correction for Eyebrow, Eyeliner or Lips."
   },
   {
     "id": "7",
@@ -164,117 +157,115 @@
     "id": "1",
     "title": "Aqua Peel",
     "price": "$200",
-    "length": "60 mins",
+    "length": "90 mins",
     "summary": "Cleanse, tone, exfoliate. Includes extraction."
   },
   {
     "id": "2",
     "title": "Black / White Doll Facial",
     "price": "$250",
-    "length": "60 mins",
+    "length": "90 mins",
     "summary": "It is one of the most advanced treatments for minor skin imperfections and promotes a smooth and glowing complexion.  e Carbon Laser Peel Treatment helps reduce  ne lines and wrinkles including ‘crow’s feet’.  The process is non invasive and pain free."
   },
   {
     "id": "3",
     "title": "LED Light Therapy",
-    "price": "$150",
-    "length": "60 mins",
+    "price": "$250",
+    "length": "90 mins",
     "summary": "LED works by penetrating into the dermis layer of the skin, energizing the cells that are responsible for reproducing collagen & melanin, helping to reverse the signs of aging, giving you a smoother & more even skin tone."
   },
   {
     "id": "4",
     "title": "Hydro Dermabrasion",
-    "price": "$138",
-    "length": "60 mins",
+    "price": "$250",
+    "length": "90 mins",
     "summary": "It is the latest renovation in skincare technology. Utilising water jets, the outer layer of the skin will be broken up.  This will reveal a smoother, more even texture of the skin."
   },
   {
     "id": "5",
     "title": "Hyperbaric Oxygen Treatment",
-    "price": "$128",
-    "length": "60 mins",
+    "price": "$250",
+    "length": "90 mins",
     "summary": "Promotes natural collagen and elastin production improving skin texture, visibly smoothing fine lines and wrinkles."
   },
   {
     "id": "6",
     "title": "Dermapen Micro-needling Treatment",
-    "price": "$128",
-    "length": "60 mins",
+    "price": "$250",
+    "length": "90 mins",
     "summary": "Is a minimally invasive technique that boosts your skin's production of collage and elastin, two of the most important substances in maintaining plump, youthful, glowing skin."
   },
   {
     "id": "7",
     "title": "RF Body Contouring",
-    "price": "$158",
-    "length": "60 mins",
+    "price": "$250",
+    "length": "90 mins",
     "summary": "Non-invasive body-contouring treatments powered by radiofrequency (RF), to reducing skin laxity (looseness) to improve the appearance of excess or sagging skin."
-  }
-  ,
+  },
   {
     "id": "8",
     "title": "Ultrasonic Cavitation Treatment",
-    "price": "$230",
-    "length": "60 mins",
+    "price": "$250",
+    "length": "90 mins",
     "summary": "Noninvasive ultrasonic-cavitation treatments are designed to contour the body and reduce fat.  The energy works to liquefy fat cells for natural disposal by the body."
+  },
+  {
+    "id": "9",
+    "title": "Thermage Treatment",
+    "price": "$350",
+    "length": "90 mins",
+    "summary": "Uses radiofrequency technology to heat the deeper, collagen-rich layers of the skin. The applied heat causes collagen to contract and encourages new collagen to start growing. This helps create smoother skin after just one treatment with results that continue to improve."
+  },
+  {
+    "id": "10",
+    "title": "Nano-Needling Treatment",
+    "price": "$350",
+    "length": "90 mins",
+    "summary": "The procedure uses the high quality MD Needle Pen device along with a nano needle cartridge to specifically treat the uppermost layers of the epidermis."
+  },
+  {
+    "id": "11",
+    "title": "Pico Laser Treatment",
+    "price": "$680",
+    "length": "90 mins",
+    "summary": "Focus treatments with the PicoSure laser activate your body’s natural skin cell processes for healthy, more youthful-looking skin. Only Focus treatments lighten unwanted pigment AND uniquely stimulate the production of new collagen and elastin—keys to younger-looking skin—without the pain or downtime of other laser treatments."
+  },
+  {
+    "id": "12",
+    "title": "Ultra Therpy",
+    "price": "$680",
+    "length": "90 mins",
+    "summary": "Is a non-invasive way to lift & tighten brows, under the chin, neck, & improve lines & wrinkles on the chest & décolletage with ultrasound technology."
   }
   ],
   "packages": [
   {
     "id": "1",
-    "title": "LiWei Package",
-    "price": "$399",
-    "length": "5x Spa Treatments",
-    "summary": "For a limited time choose 5 unique treatments (treatments cannot repeat) from the spa treatments section for only $399."
+    "title": "Deep Cleansing Facials w/ Microdermabrasion",
+    "price": "$299",
+    "length": "10x Treatments",
+    "summary": "Deep Cleansing facials with added benefits of Microdermabrasion."
   },
   {
     "id": "2",
-    "title": "Aqua Peel",
-    "price": "$750",
-    "length": "6x",
-    "summary": "Cleanse, tone, exfoliate. Includes extraction."
+    "title": "Tier I Treatment with Machines",
+    "price": "$1500",
+    "length": "10",
+    "summary": "This Packages includes 10x Spa Treatment with Machines (all the $250 price point services).  Can choose from the following:  Aqua Peel, White Dollface, Black Dollface, LED Light Therapy, Hydro Dermabration, Hyperbaric Oxygen Treatment, Micro-Needling Treatment, RF Body Contouring and Ultrasonic Cavitation Treatment."
   },
   {
     "id": "3",
-    "title": "Black / White Doll Facial",
-    "price": "$750",
-    "length": "6x",
-    "summary": "It is one of the most advanced treatments for minor skin imperfections and promotes a smooth and glowing complexion.  e Carbon Laser Peel Treatment helps reduce  ne lines and wrinkles including ‘crow’s feet’.  The process is non invasive and pain free."
+    "title": "Tier II Treatment with Machines",
+    "price": "$2500",
+    "length": "10x",
+    "summary": "This Packages includes 10x Spa Treatment with Machines (all the $350 price point services).  Can choose from the following:  Thermage Treatment or Nano-Needling Treatment."
   },
   {
     "id": "4",
-    "title": "LED Light Therapy",
-    "price": "$750",
-    "length": "6x",
-    "summary": "LED works by penetrating into the dermis layer of the skin, energizing the cells that are responsible for reproducing collagen & melanin, helping to reverse the signs of aging, giving you a smoother & more even skin tone."
-  },
-  {
-    "id": "5",
-    "title": "Hydro Dermabrasion",
-    "price": "$580",
+    "title": "Tier III Treatment with Machines",
+    "price": "$3380",
     "length": "10x",
-    "summary": "It is the latest renovation in skincare technology. Utilising water jets, the outer layer of the skin will be broken up.  This will reveal a smoother, more even texture of the skin."
-  },
-  {
-    "id": "6",
-    "title": "Dermapen Micro-needling Treatment",
-    "price": "$580",
-    "length": "10x",
-    "summary": "Is a minimally invasive technique that boosts your skin's production of collage and elastin, two of the most important substances in maintaining plump, youthful, glowing skin."
-  },
-  {
-    "id": "7",
-    "title": "RF Body Contouring",
-    "price": "$580",
-    "length": "10x",
-    "summary": "Non-invasive body-contouring treatments powered by radiofrequency (RF), to reducing skin laxity (looseness) to improve the appearance of excess or sagging skin."
-  }
-  ,
-  {
-    "id": "8",
-    "title": "Ultrasonic Cavitation Treatment",
-    "price": "$580",
-    "length": "10x",
-    "summary": "Noninvasive ultrasonic-cavitation treatments are designed to contour the body and reduce fat.  The energy works to liquefy fat cells for natural disposal by the body."
+    "summary": "This Packages includes 10x Spa Treatment with Machines (all the $680 price point services).  Can choose from the following:  Pico Laser Treatment or Ultra therpay."
   }
   ]
 }
