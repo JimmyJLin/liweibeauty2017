@@ -20,10 +20,10 @@
         </div>
       </div>
       <div class="col-xs-18 col-sm-6 col-md-6">
-        <h3>GM Collin Facials</h3>
-        <img src="/images/services/gm.jpg" alt="gm">
+        <h3>Spa Treatments</h3>
+        <img src="/images/services/spa.png" alt="spa">
         <div class="category">
-            <% data.collin.forEach((el) => { %>
+            <% data.spa.forEach((el) => { %>
               <div class="items">
                 <h4><%= el.title %> <span> - <%= el.price %> (<%= el.length%>)</span></h4>
                 <p><%= el.summary %></p>
@@ -35,10 +35,10 @@
 
     <div class="row">
       <div class="col-xs-18 col-sm-6 col-md-6">
-        <h3>Spa Treatments</h3>
-        <img src="/images/services/spa.png" alt="spa">
+        <h3>GM Collin Facials</h3>
+        <img src="/images/services/gm.jpg" alt="gm">
         <div class="category">
-            <% data.spa.forEach((el) => { %>
+            <% data.collin.forEach((el) => { %>
               <div class="items">
                 <h4><%= el.title %> <span> - <%= el.price %> (<%= el.length%>)</span></h4>
                 <p><%= el.summary %></p>
@@ -59,6 +59,5 @@
         </div>
       </div>
     </div>
-
   </div>
 </div>
