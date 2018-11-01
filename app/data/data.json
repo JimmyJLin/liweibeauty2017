@@ -103,8 +103,15 @@
   ],
   "makeup": [
   {
+    "id": "0",
+    "title": "Eyebrow: Handcraft + Machine",
+    "price": "$680",
+    "length": "120 mins",
+    "summary": "This service uses both Handcraft & Machine to accomplish trusly a realistic eyebrows with dimensions of lines & shades (Hairstrokes & Ombre)."
+  },
+  {
     "id": "1",
-    "title": "Eyebrow Hairstrokes + Ombre",
+    "title": "Eyebrow: Hairstrokes + Ombre",
     "price": "$480",
     "length": "120 mins",
     "summary": "Combination of the shading and hair stroke technique, whereby strokes are made closer to one another creating a shaded dimensional appearance."
